@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isad0ra16
+- 👋 Hi, I’m @isadora16
 - 👀 I’m interested in learning Python, machine learning,Power BI, sql and more
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on anything involving data
