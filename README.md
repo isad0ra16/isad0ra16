@@ -11,7 +11,7 @@
 #
 
 <p align="center">Estudante dedicada à Análise de Dados e Ciência de Dados. Atualmente focada em extrair insights valiosos, transformar dados em decisões estratégicas e apoiar a resolução de problemas complexos através de análises.
-Estou constantemente atualizando meus conhecimentos em tecnologias do ecossistema de Big Data e Business Intelligence, buscando sempre novos desafios na área de tecnologia com paixão por aprender.
+Estou constantemente atualizando meus conhecimentos em tecnologias do ecossistema de IA, Cloud, Big Data e Business Intelligence, buscando sempre novos desafios na área de tecnologia com paixão por aprender.
   
 #
 
