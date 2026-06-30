@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=111&section=header&reversal=true&fontSize=70&fontColor=FFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="center">💻 **Computer Science** student at **Descomplica Faculdade**, focused on **Data Analytics, Data Science, and UX/UI Design**. Currently expanding my expertise through **Google's Professional Data Analytics Certificate**, **IBM's Professional Data Science Certificate**, and **Google's Professional UX Design Certificate** on Coursera, as well as **Power BI** training from **Data Science Academy** and **SQL** courses on **Udemy** *(currently in progress)*. Passionate about transforming data into strategic insights and building intelligent, user-centered solutions.</p>
+<p data-importer="text" align="center">💻 Computer Science student at Descomplica Faculdade, focused on Data Analytics, Data Science, and UX/UI Design. Currently expanding my expertise through Google's Professional Data Analytics Certificate, IBM's Professional Data Science Certificate, and Google's Professional UX Design Certificate on Coursera, as well as Power BI training from Data Science Academy and SQL courses on Udemy. Passionate about transforming data into strategic insights and building intelligent, user-centered solutions.</p>
 
 ###
 
@@ -120,7 +120,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FF&fontAlign=50&fontAlignY=50&rotate=2&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=111&section=footer&reversal=true&fontSize=70&fontColor=FFFF&fontAlign=50&fontAlignY=50&rotate=2&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
