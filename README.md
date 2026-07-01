@@ -36,7 +36,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="498" src="https://imgur.com/a/BDLAnPR.png"  />
+ <img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/e52142e2-21c4-465b-a7cf-41c4c1650f41" />
 </div>
 
 ###
