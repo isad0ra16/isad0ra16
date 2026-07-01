@@ -36,7 +36,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="498" src="https://github.com/isad0ra16/isad0ra16/issues/1#issue-4781256725"  />
+  <img data-importer="image" height="498" src="https://imgur.com/a/BDLAnPR.png"  />
 </div>
 
 ###
