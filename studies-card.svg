@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="Dados, código e cloud">
+<rect width="640" height="300" rx="22" fill="#272536"/><rect x="1" y="1" width="638" height="298" rx="21" fill="none" stroke="#625570"/>
+<rect x="28" y="28" width="7" height="244" rx="3" fill="#ddbf91"/>
+<g fill="#ddbf91" opacity="0.25"><rect x="553" y="32" width="18" height="18"/><rect x="574" y="53" width="18" height="18"/><rect x="553" y="74" width="18" height="18"/></g>
+<text x="54" y="53" fill="#ddbf91" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">MINHA TRILHA DE APRENDIZADO</text>
+<text x="54" y="104" fill="#f3edf4" font-family="Arial,sans-serif" font-size="32" font-weight="bold">Dados, código e cloud</text>
+<text x="54" y="137" fill="#c3b4d0" font-family="Arial,sans-serif" font-size="17">Ciência da Computação · 4º período</text><text x="54" y="185" fill="#e0d7e5" font-family="Arial,sans-serif" font-size="17">Em andamento: Google Data Analytics</text><text x="54" y="214" fill="#e0d7e5" font-family="Arial,sans-serif" font-size="17">Em andamento: Indicium Academy</text><text x="54" y="243" fill="#e0d7e5" font-family="Arial,sans-serif" font-size="17">Próximos objetivos: Azure Fundamentals e AWS</text></svg>
