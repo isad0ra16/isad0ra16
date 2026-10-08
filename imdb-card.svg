@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="IMDb: dados do cinema">
-<rect width="640" height="300" rx="22" fill="#272536"/><rect x="1" y="1" width="638" height="298" rx="21" fill="none" stroke="#625570"/>
-<rect x="28" y="28" width="7" height="244" rx="3" fill="#c0a6da"/>
-<g fill="#c0a6da" opacity="0.25"><rect x="553" y="32" width="18" height="18"/><rect x="574" y="53" width="18" height="18"/><rect x="553" y="74" width="18" height="18"/></g>
-<text x="54" y="53" fill="#c0a6da" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">PROJETO EM DESTAQUE</text>
-<text x="54" y="104" fill="#f3edf4" font-family="Arial,sans-serif" font-size="32" font-weight="bold">IMDb: dados do cinema</text>
-<text x="54" y="137" fill="#c3b4d0" font-family="Arial,sans-serif" font-size="17">Avaliação do público × desempenho financeiro</text><text x="54" y="185" fill="#e0d7e5" font-family="Arial,sans-serif" font-size="17">Python · pandas · NumPy · SQL · Power BI</text><text x="54" y="214" fill="#e0d7e5" font-family="Arial,sans-serif" font-size="17">Limpeza, análise exploratória e dashboard</text><text x="54" y="243" fill="#e0d7e5" font-family="Arial,sans-serif" font-size="17">Perguntas de negócio e qualidade dos dados</text></svg>
