@@ -4,7 +4,7 @@
 
 ## 💜 Oi, eu sou a Isadora!
 
-**Estudante de Ciência da Computação · Cloud & Infraestrutura · Inteligência Artificial Aplicada · Desenvolvimento de Software**
+**Estudante de Ciência da Computação · Desenvolvimento de Software · IA Aplicada e Machine Learning · Dados · Cloud & Infraestrutura · Automação**
 
 ### 🧭 Sobre mim
 
@@ -41,7 +41,7 @@ Gosto de trocar ideias sobre tecnologia, cloud, infraestrutura, IA e projetos cr
 
 | Formação / curso | Área | Situação |
 | --- | --- | --- |
-| Ciência da Computação — Descomplica | Fundamentos de computação e desenvolvimento | Em andamento |
+| Ciência da Computação — UniAmérica | Fundamentos de computação e desenvolvimento | Em andamento |
 | Escola da Nuvem — AWS | Fundamentos de cloud e infraestrutura | Em formação |
 | IBM AI Engineering — Coursera | Inteligência artificial e machine learning | Em andamento |
 | IBM — Desenvolvimento de Software Full Stack | Desenvolvimento de aplicações | Em andamento |
@@ -72,9 +72,13 @@ Gosto de trocar ideias sobre tecnologia, cloud, infraestrutura, IA e projetos cr
 </tr>
 </table>
 
-### 🏥 Hospital Analytics — dados públicos de saúde
+### 🏥 [Hospital Analytics](https://github.com/isad0ra16/hospital-analytics) — dados públicos de saúde
 
-Projeto com dados do **SIH/DATASUS**, voltado à coleta, auditoria e preparação de informações hospitalares. Inclui investigação de duplicidades, análise de indicadores e tratamento de dados com Python. **O dashboard interativo em Power BI é uma entrega planejada**, não uma etapa apresentada como concluída.
+**Status:** pipeline validado · dashboard em validação.
+
+Pipeline reproduzível com **73.046 registros** de internações do **SIH/DATASUS** (RJ, jan/2024): conversão sem perda com **validação SHA-256**, auditoria de qualidade e reconciliação dos indicadores com o histórico. Modelo analítico com **122 verificações de integridade** e suíte com **361 testes Pytest**. O **projeto Power BI foi gerado com seis páginas** e ainda está pendente de validação visual no Power BI Desktop.
+
+<p><b>Tecnologias:</b> Python, pandas, DuckDB, SQL, pytest e Power BI.</p>
 
 [![Repositórios](https://img.shields.io/badge/Explorar_meus_repositórios-75648C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isad0ra16?tab=repositories)
 
@@ -114,7 +118,7 @@ Projeto com dados do **SIH/DATASUS**, voltado à coleta, auditoria e preparaçã
 
 ## 🎯 Próximos passos
 
-Quero desenvolver uma carreira que conecte **infraestrutura, cloud, engenharia de software e IA aplicada**, mantendo espaço para explorar como essas áreas se complementam.
+Quero desenvolver uma carreira que conecte **desenvolvimento de software, IA aplicada, machine learning, dados, cloud, infraestrutura e automação**, mantendo espaço para explorar como essas áreas se complementam.
 
 - Consolidar fundamentos de **AWS, redes, sistemas e infraestrutura**.
 - Aprofundar conhecimentos em **desenvolvimento Full Stack**, testes e arquitetura de aplicações.
